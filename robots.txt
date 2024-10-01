@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toktoknews.github.io/viral/sitemap.xml
